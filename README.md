@@ -33,10 +33,10 @@ https://github.com/Yemeksepeti-Python-Bootcamp/burgerzilla_nedimcanulusoy.git
 
 2. There are two ways to run project
 
-    1. **Production** (Recommended for live usage):
+    1. **Production** (**Recommended** for stable and live usage):
         * Run with `docker-compose -f docker-compose.prod.yml up`
 
-    2. **Development** (Choose this if you want to do experimental tests or develop this project):
+    2. **Development** (Choose this if you want to do experimental tests or develop this project.):
         * Create a virtual environment with `virtualenv venv`
         * Install requirements with `pip3 install -r requirements.txt`
         * Run PostgreSQL Database with `docker-compose up`
@@ -47,8 +47,8 @@ https://github.com/Yemeksepeti-Python-Bootcamp/burgerzilla_nedimcanulusoy.git
 
 * `docker-compose down`
 * `docker system prune -a`
-* `rm -rf .postgres_data_dev`
-* `rm -rf .postgres_data_prod`
+* `sudo rm -rf .postgres_data_dev`
+* `sudo rm -rf .postgres_data_prod`
 
 and run your docker again.
 
