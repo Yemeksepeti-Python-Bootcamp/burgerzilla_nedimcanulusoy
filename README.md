@@ -37,7 +37,7 @@ https://github.com/Yemeksepeti-Python-Bootcamp/burgerzilla_nedimcanulusoy.git
 
 1. **Production** (**Recommended** for stable and live usage):
     * Run with `docker-compose -f docker-compose.prod.yml up`
-    
+
 ---
 
 2. **Development** (Choose this if you want to do experimental tests or develop this project.):
@@ -202,4 +202,5 @@ This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE
 
 ### Special Thanks
 
-I would like to thank both [Patika.dev](www.patika.dev), [Yemeksepeti](www.yemeksepeti.com) and our trainer [İbrahim Ediz](https://github.com/ibrahimediz) for this wonderful Python & Flask bootcamp.
+I would like to thank both [Patika.dev](https://www.patika.dev), [Yemeksepeti](https://www.yemeksepeti.com) and our
+trainer [İbrahim Ediz](https://github.com/ibrahimediz) for this wonderful Python & Flask bootcamp.
