@@ -185,3 +185,10 @@ Burgerzilla-Yemeksepeti
 ### Database Diagram
 
 <p align="center"><img width="800" src="bzdata.png" alt="EFARS Logo"></p>
+
+---
+
+### Contributing
+
+Merge requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
