@@ -43,7 +43,7 @@ https://github.com/Yemeksepeti-Python-Bootcamp/burgerzilla_nedimcanulusoy.git
         * Run Flask with `python3 -m flask run`
 
 ---
-**WARNING**: If you run into any problems running prod or dev docker, do the following in order;
+**WARNING:** If you run into any problems running prod or dev docker, do the following in order;
 
 * `docker-compose down`
 * `docker system prune -a`
